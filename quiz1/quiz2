@@ -1,0 +1,38 @@
+1. Which statement about Pub/Sub is true?
+
+Pub/Sub’s APIs are open.
+
+----------------------------------------------------------------------------------------------------------------------------
+2.Which API management system supports applications running in App Engine, Google Kubernetes Engine, and Compute Engine?
+
+Cloud Endpoints
+
+----------------------------------------------------------------------------------------------------------------------------
+3.What does API stand for?
+
+Application Programming Interface
+
+----------------------------------------------------------------------------------------------------------------------------
+4.Which platform for developing and managing API proxies has a specific focus on business problems, like rate limiting, quotas, and analytics?
+
+Apigee API Management
+
+----------------------------------------------------------------------------------------------------------------------------
+1.With which encryption option does a customer encrypt data before sending it to Google Cloud?
+
+Client-side encryption
+
+----------------------------------------------------------------------------------------------------------------------------
+2.Which IAM role is the most broad in scope?
+
+Basic
+
+----------------------------------------------------------------------------------------------------------------------------
+3.When a customer moves an application to Google Cloud, which one of the following does the customer remain responsible for?
+
+Data security
+
+----------------------------------------------------------------------------------------------------------------------------
+4.At which level of Google Cloud’s infrastructure security will you find intrusion detection?
+
+The operational security level
